@@ -1,0 +1,49 @@
+{
+  "task_A": {
+    "MLP": {
+      "accuracy": 0.5590551181102362,
+      "macro_f1": 0.36625051847320234
+    },
+    "GraphSAGE": {
+      "accuracy": 0.6692913385826772,
+      "macro_f1": 0.49551072991933204
+    }
+  },
+  "task_B": {
+    "MLP": {
+      "family_recall@1": 0.5590551181102362,
+      "family_recall@5": 0.7322834645669292,
+      "family_recall@10": 0.8031496062992126,
+      "species_recall@1": 0.0,
+      "species_recall@5": 0.0,
+      "species_recall@10": 0.0,
+      "family_MRR": 0.6400911817809164,
+      "species_MRR": 0.0007911392405063296
+    },
+    "GraphSAGE": {
+      "family_recall@1": 0.6220472440944882,
+      "family_recall@5": 0.7716535433070866,
+      "family_recall@10": 0.7874015748031497,
+      "species_recall@1": 0.0,
+      "species_recall@5": 0.0,
+      "species_recall@10": 0.0,
+      "family_MRR": 0.6948579840324305,
+      "species_MRR": 0.0007911392405063296
+    }
+  },
+  "n_family_classes": 10,
+  "class_names": [
+    "Borates",
+    "Carbonates",
+    "Halides",
+    "Native Elements",
+    "Other",
+    "Oxides & Hydroxides",
+    "Phosphates",
+    "Silicates",
+    "Sulfates",
+    "Sulfides & Sulfosalts"
+  ],
+  "n_nodes": 1264,
+  "n_edges": 227672
+}
