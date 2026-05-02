@@ -1,0 +1,487 @@
+rruff_id,mineral_name,true_family,pred_family,top1_name,species_hit@1,species_hit@3,species_hit@5,family_hit@1
+R120063,Volborthite,Oxides & Hydroxides,Other,tsumoite,0,0,0,0
+R060438,Pyrosmalite-(Fe),Silicates,Silicates,bertrandite,0,0,0,1
+R050193,Microcline,Silicates,Silicates,ferrierite-mg,0,0,0,1
+R061031,Gillespite,Silicates,Silicates,ferrierite-mg,0,0,0,1
+R120112,Mottramite,Oxides & Hydroxides,Oxides & Hydroxides,tsumcorite,0,0,0,1
+R150080,Zircon,Silicates,Silicates,anorthite,0,0,0,1
+R061009,Howieite,Silicates,Other,ferrokesterite,0,0,0,0
+R070001,Orthoclase,Silicates,Silicates,anorthite,0,0,0,1
+R050566,Ferrimolybdite,Oxides & Hydroxides,Sulfates,klebelsbergite,0,0,0,0
+R141161,Wherryite,Silicates,Sulfates,wupatkiite,0,0,0,0
+R130691,Kryzhanovskite,Phosphates,Carbonates,gaudefroyite,0,0,0,0
+R070689,Marialite,Silicates,Silicates,tinaksite,0,1,1,1
+R060252,Tantalite-(Mn),Oxides & Hydroxides,Silicates,yoshimuraite,0,0,0,0
+R070330,Phlogopite,Silicates,Silicates,clinoptilolite-ca,0,0,0,1
+R070016,Harmotome,Silicates,Silicates,cookeite,0,0,0,1
+R090070,Hureaulite,Phosphates,Silicates,braunite,0,0,0,0
+R150075,Calcite,Carbonates,Silicates,heklaite,0,0,0,0
+R050189,Vanadinite,Halides,Phosphates,goyazite,0,0,0,0
+R050274,Fluorapatite,Phosphates,Oxides & Hydroxides,lavendulan,0,0,0,0
+R070463,Silver,Native Elements,Other,anilite,0,0,0,0
+R100162,Rhodochrosite,Carbonates,Oxides & Hydroxides,magnesiotaaffeite-2n2s,0,0,0,0
+R130754,Sugilite,Silicates,Silicates,dozyite,0,0,0,1
+R070654,Bobdownsite,Phosphates,Silicates,clinoptilolite-ca,0,0,0,0
+R070323,Millerite,Other,Silicates,bavenite,0,0,0,0
+R060976,Nakauriite,Carbonates,Oxides & Hydroxides,edwindavisite,0,0,0,0
+R110131,Tourmaline,Other,Silicates,arfvedsonite,0,0,0,0
+R060128,Bavenite,Silicates,Silicates,maricopaite,0,1,1,1
+R060447,Spessartine,Silicates,Silicates,potassic-fluoro-richterite,0,0,0,1
+R050449,Andalusite,Silicates,Silicates,wiluite,0,0,0,1
+R080122,Millerite,Other,Silicates,braunite,0,0,0,0
+R060510,Gerstleyite,Sulfides & Sulfosalts,Silicates,staurolite,0,0,0,0
+R070316,Langite,Sulfates,Sulfates,orthoserpierite,0,0,0,1
+R130480,Eosphorite,Phosphates,Silicates,akatoreite,0,0,0,0
+R060494,Lazulite,Phosphates,Other,ammineite,0,0,0,0
+R140430,Arsendescloizite,Oxides & Hydroxides,Phosphates,dickinsonite-(kmnna),0,0,0,0
+R080022,Afwillite,Silicates,Silicates,kalsilite,0,0,0,1
+R070013,Spinel,Oxides & Hydroxides,Silicates,axinite-(mn),0,0,0,0
+R060993,Lanthanite-(Nd),Carbonates,Silicates,bavenite,0,0,0,0
+R060446,Grossular,Silicates,Silicates,pezzottaite,0,0,0,1
+R140132,Ruizite,Silicates,Silicates,creaseyite,0,0,0,1
+R061087,Tremolite,Silicates,Silicates,pumpellyite-(al),0,0,0,1
+R080030,Pyrite,Other,Silicates,kentrolite,0,0,0,0
+R060539,Forsterite,Silicates,Silicates,andradite,0,0,0,1
+R070550,Enstatite,Silicates,Silicates,yoshimuraite,0,1,1,1
+R120096,Valentinite,Oxides & Hydroxides,Oxides & Hydroxides,haynesite,0,0,0,1
+R120174,Enstatite,Silicates,Oxides & Hydroxides,symplesite,0,0,0,0
+R070649,Agardite-(Y),Oxides & Hydroxides,Oxides & Hydroxides,agardite-(y),1,1,1,1
+R060920,Mimetite,Halides,Silicates,fluor-uvite,0,0,0,0
+R050305,Beryl,Silicates,Silicates,clinoptilolite-ca,0,0,0,1
+R060366,Gaspeite,Carbonates,Sulfates,gordaite,0,0,0,0
+R060557,Charoite,Silicates,Silicates,foitite,0,0,0,1
+R070493,Jarosite,Sulfates,Oxides & Hydroxides,behoite,0,0,0,0
+R080023,Spangolite,Sulfates,Other,wurtzite,0,0,0,0
+R060124,Molybdenite,Other,Silicates,fluor-uvite,0,0,0,0
+R150082,Zircon,Silicates,Oxides & Hydroxides,natanite,0,0,0,0
+R100133,Spinel,Oxides & Hydroxides,Silicates,sodalite,0,0,0,0
+R060554,Fluorapophyllite-(K),Silicates,Silicates,eastonite,0,0,0,1
+R070204,Grunerite,Silicates,Silicates,tobermorite,0,0,0,1
+R100046,Almandine,Silicates,Silicates,ferrisurite,0,0,0,1
+R130037,Perovskite,Other,Carbonates,gaudefroyite,0,0,0,0
+R060110,Greenockite,Other,Other,greenockite,1,1,1,1
+R070519,Phosphosiderite,Phosphates,Oxides & Hydroxides,marthozite,0,0,0,0
+R150089,Diamond,Native Elements,Oxides & Hydroxides,magnesiotaaffeite-2n2s,0,0,0,0
+R141154,Sincosite,Phosphates,Sulfates,alumoklyuchevskite,0,0,0,0
+R060470,Lanthanite-(Nd),Carbonates,Oxides & Hydroxides,koritnigite,0,0,0,0
+R090072,Sampleite,Phosphates,Oxides & Hydroxides,edwindavisite,0,0,0,0
+R050638,Azurite,Carbonates,Oxides & Hydroxides,gillardite,0,0,0,0
+R050558,Tennantite-(Zn),Sulfides & Sulfosalts,Silicates,staurolite,0,0,0,0
+R060744,Enstatite,Silicates,Silicates,yoshimuraite,0,1,1,1
+R070146,Mimetite-M,Halides,Oxides & Hydroxides,ilmenite,0,0,0,0
+R060208,Catapleiite,Silicates,Silicates,fluor-buergerite,0,0,0,1
+R120030,Titanite,Silicates,Other,calaverite,0,0,0,0
+R070500,Cyanotrichite,Sulfates,Oxides & Hydroxides,agardite-(y),0,0,0,0
+R250025,Bairdite,Sulfates,Oxides & Hydroxides,antipinite,0,0,0,0
+R060630,Enstatite,Silicates,Silicates,anorthite,0,0,0,1
+R070710,Volborthite,Oxides & Hydroxides,Oxides & Hydroxides,bariopharmacosiderite,0,0,0,1
+R110055,Lorandite,Other,Oxides & Hydroxides,symplesite,0,0,0,0
+R060035,Eudialyte,Silicates,Silicates,alleghanyite,0,0,0,1
+R070119,Ferrierite-Mg,Silicates,Silicates,dachiardite-na,0,0,0,1
+R060745,Rutile,Other,Silicates,fluor-uvite,0,0,0,0
+R090049,Alstonite,Carbonates,Silicates,aminoffite,0,0,0,0
+R120004,Andradite,Silicates,Carbonates,gaudefroyite,0,0,0,0
+R120124,Natrolite,Silicates,Silicates,kalsilite,0,0,0,1
+R050367,Orthoclase,Silicates,Silicates,litidionite,0,0,0,1
+R070722,Andradite,Silicates,Oxides & Hydroxides,behoite,0,0,0,0
+R100174,Wendwilsonite,Oxides & Hydroxides,Silicates,asisite,0,0,0,0
+R141184,Hemihedrite,Silicates,Oxides & Hydroxides,tetrawickmanite,0,0,0,0
+R070357,Agardite-(Y),Oxides & Hydroxides,Oxides & Hydroxides,bayldonite,0,0,0,1
+R190037,Plancheite,Silicates,Oxides & Hydroxides,haynesite,0,0,0,0
+R070422,Tremolite,Silicates,Oxides & Hydroxides,cornwallite,0,0,0,0
+R060217,Narsarsukite,Silicates,Silicates,wiluite,0,0,0,1
+R250142,Tlapallite,Sulfates,Oxides & Hydroxides,bayldonite,0,0,0,0
+R060757,Manganosite,Other,Silicates,kentrolite,0,0,0,0
+R060535,Forsterite,Silicates,Silicates,andradite,0,0,0,1
+R060278,Grossular,Silicates,Silicates,fluor-uvite,0,0,1,1
+R060861,Diopside,Silicates,Silicates,enstatite,0,0,0,1
+R060656,Magnetite,Oxides & Hydroxides,Silicates,kentrolite,0,0,0,0
+R050303,Epidote,Silicates,Other,calaverite,0,0,0,0
+R080128,Levyne-Ca,Silicates,Silicates,epididymite,0,0,0,1
+R120173,Pseudobrookite,Oxides & Hydroxides,Oxides & Hydroxides,behoite,0,0,0,1
+R060450,Almandine,Silicates,Silicates,zircon,0,0,0,1
+R070645,Triplite,Phosphates,Silicates,ferrierite-mg,0,0,0,0
+R141099,Magnesio-fluoro-hastingsite,Silicates,Other,gersdorffite,0,0,0,0
+R100212,Senandorite,Sulfides & Sulfosalts,Silicates,foitite,0,0,0,0
+R080025,Magnetite,Oxides & Hydroxides,Carbonates,gaudefroyite,0,0,0,0
+R070593,Manganite,Oxides & Hydroxides,Other,luzonite,0,0,0,0
+R150121,Molybdofornacite,Oxides & Hydroxides,Oxides & Hydroxides,bayldonite,0,0,0,1
+R110013,Hematite,Oxides & Hydroxides,Silicates,clinoptilolite-ca,0,0,0,0
+R060501,Svanbergite,Phosphates,Silicates,heulandite-na,0,0,0,0
+R090030,Inesite,Silicates,Silicates,sodalite,0,0,0,1
+R060618,Tilasite,Halides,Phosphates,lithiophilite,0,0,0,0
+R080146,Fluorcalciomicrolite,Oxides & Hydroxides,Silicates,ferrisurite,0,0,0,0
+R060444,Grossular,Silicates,Silicates,jerrygibbsite,0,0,0,1
+R050401,Fluorapatite,Phosphates,Silicates,nosean,0,0,0,0
+R130513,Symplesite,Oxides & Hydroxides,Silicates,ferrisurite,0,0,0,0
+R060532,Vesuvianite,Silicates,Silicates,tinaksite,0,0,0,1
+R150037,Liebenbergite,Silicates,Oxides & Hydroxides,bariopharmacosiderite,0,0,0,0
+R150143,Veszelyite,Phosphates,Other,ammineite,0,0,0,0
+R060212,Andalusite,Silicates,Silicates,wiluite,0,0,0,1
+R070155,Kasolite,Silicates,Phosphates,wavellite,0,0,0,0
+R180009,Wendwilsonite,Oxides & Hydroxides,Silicates,heulandite-na,0,0,0,0
+R100146,Grossular,Silicates,Silicates,serendibite,0,0,0,1
+R100144,Zircon,Silicates,Oxides & Hydroxides,magnesiotaaffeite-2n2s,0,0,0,0
+R130090,Palermoite,Phosphates,Phosphates,dickinsonite-(kmnna),0,0,1,1
+R110033,Bayldonite,Oxides & Hydroxides,Oxides & Hydroxides,gillardite,0,1,1,1
+R070190,Beudantite,Sulfates,Other,ferrokesterite,0,0,0,0
+R150105,Diamond,Native Elements,Carbonates,hydrotalcite,0,0,0,0
+R050150,Microcline,Silicates,Silicates,axinite-(fe),0,0,0,1
+R050307,Calcite,Carbonates,Silicates,rossmanite,0,0,0,0
+R060617,Jeremejevite,Halides,Silicates,heklaite,0,0,0,0
+R141211,Rruffite,Oxides & Hydroxides,Phosphates,birchite,0,0,0,0
+R150122,Molybdofornacite,Oxides & Hydroxides,Other,anilite,0,0,0,0
+R060565,Felsobanyaite,Sulfates,Oxides & Hydroxides,priceite,0,0,0,0
+R060629,Bastnasite-(Ce),Carbonates,Silicates,heulandite-na,0,0,0,0
+R130667,Goedkenite,Phosphates,Silicates,howlite,0,0,0,0
+R070447,Conichalcite,Oxides & Hydroxides,Silicates,kentrolite,0,0,0,0
+R060456,Wagnerite,Phosphates,Silicates,raslakite,0,0,0,0
+R110025,Bertrandite,Silicates,Silicates,kalsilite,0,0,0,1
+R050632,Ferberite,Other,Other,ferrokesterite,0,0,0,1
+R060866,Hydroboracite,Oxides & Hydroxides,Silicates,bertrandite,0,0,0,0
+R120152,Almandine,Silicates,Other,anilite,0,0,0,0
+R060084,Babingtonite,Silicates,Silicates,kentrolite,0,0,0,1
+R060830,Talmessite,Oxides & Hydroxides,Phosphates,parsonsite,0,0,0,0
+R060025,Vivianite,Phosphates,Silicates,fluor-elbaite,0,0,0,0
+R060276,Diopside,Silicates,Oxides & Hydroxides,gillardite,0,0,0,0
+R060943,Beryl,Silicates,Silicates,litidionite,0,0,0,1
+R080114,Vandenbrandeite,Oxides & Hydroxides,Oxides & Hydroxides,eurekadumpite,0,0,0,1
+R070118,Ferrierite-Mg,Silicates,Oxides & Hydroxides,hannebachite,0,0,0,0
+R110123,Weddellite,Oxides & Hydroxides,Oxides & Hydroxides,wilancookite,0,0,0,1
+R070121,Hauyne,Silicates,Oxides & Hydroxides,magnesiotaaffeite-2n2s,0,0,0,0
+R060944,Beryl,Silicates,Oxides & Hydroxides,cornwallite,0,0,0,0
+R140974,Pseudobrookite,Oxides & Hydroxides,Silicates,kentrolite,0,0,0,0
+R100128,Zircon,Silicates,Native Elements,diamond,0,0,0,0
+R060558,Axinite-(Fe),Silicates,Silicates,fluor-buergerite,0,0,0,1
+R060564,Annabergite,Oxides & Hydroxides,Sulfates,devilline,0,0,0,0
+R060445,Pyrope,Silicates,Silicates,pyrope,1,1,1,1
+R060552,Beryllonite,Phosphates,Silicates,sodalite,0,0,0,0
+R141212,Lavendulan,Oxides & Hydroxides,Sulfates,serpierite,0,0,0,0
+R050613,Libethenite,Phosphates,Carbonates,gaudefroyite,0,0,0,0
+R070430,Conichalcite,Oxides & Hydroxides,Oxides & Hydroxides,rruffite,0,0,0,1
+R060043,Richterite,Silicates,Silicates,hydroxylellestadite,0,0,0,1
+R090035,Magnesiotaaffeite-2N2S,Oxides & Hydroxides,Silicates,sodalite,0,0,0,0
+R080060,Pyrope,Silicates,Silicates,aminoffite,0,0,0,1
+R150088,Diamond,Native Elements,Oxides & Hydroxides,magnesiotaaffeite-2n2s,0,1,1,0
+R100198,Clinoatacamite,Oxides & Hydroxides,Oxides & Hydroxides,gillardite,0,0,0,1
+R050507,Duftite,Oxides & Hydroxides,Oxides & Hydroxides,fornacite,0,0,0,1
+R070129,Almandine,Silicates,Silicates,braunite,0,0,0,1
+R070077,Elbaite,Silicates,Silicates,suolunite,0,0,0,1
+R060763,Zincolibethenite,Phosphates,Phosphates,birchite,0,0,0,1
+R100194,Nickelskutterudite,Other,Oxides & Hydroxides,ilmenite,0,0,0,0
+R070552,Stolzite,Other,Oxides & Hydroxides,senaite,0,0,0,0
+R060225,Polylithionite,Silicates,Silicates,wiluite,0,0,0,1
+R060168,Gmelinite-Na,Silicates,Silicates,dalyite,0,0,0,1
+R100069,Richterite,Silicates,Oxides & Hydroxides,wilancookite,0,0,0,0
+R130731,Mimetite,Halides,Silicates,clinoptilolite-ca,0,0,0,0
+R080017,Iodargyrite,Other,Silicates,kentrolite,0,0,0,0
+R050151,Cornetite,Phosphates,Oxides & Hydroxides,diaboleite,0,0,0,0
+R060045,Actinolite,Silicates,Sulfates,piypite,0,0,0,0
+R050533,Vanadinite,Halides,Silicates,maricopaite,0,0,0,0
+R150146,Clinochlore,Silicates,Silicates,hodgkinsonite,0,0,0,1
+R060746,Neptunite,Silicates,Other,ferrokesterite,0,0,0,0
+R070632,Spurrite,Silicates,Silicates,aminoffite,0,0,0,1
+R060493,Rutile,Other,Silicates,foitite,0,0,0,0
+R110040,Cobaltomenite,Oxides & Hydroxides,Oxides & Hydroxides,antipinite,0,0,0,1
+R070561,Clinohumite,Silicates,Silicates,heulandite-na,0,0,0,1
+R050531,Malachite,Carbonates,Oxides & Hydroxides,bayldonite,0,0,0,0
+R141083,Clinoatacamite,Oxides & Hydroxides,Oxides & Hydroxides,lavendulan,0,0,0,1
+R060935,Triplite,Phosphates,Silicates,wickenburgite,0,0,0,0
+R141095,Phillipsite-K,Silicates,Silicates,kalsilite,0,0,0,1
+R070683,Metatorbernite,Phosphates,Oxides & Hydroxides,gillardite,0,0,1,0
+R110128,Diopside,Silicates,Silicates,hedenbergite,0,0,0,1
+R120075,Parauranophane,Silicates,Oxides & Hydroxides,tetrawickmanite,0,0,0,0
+R060577,Bobjonesite,Sulfates,Oxides & Hydroxides,ondrusite,0,0,0,0
+R061127,Pyrrhotite,Sulfides & Sulfosalts,Other,ferrokesterite,0,0,0,0
+R060286,Dravite,Silicates,Silicates,topaz,0,0,0,1
+R080104,Hydrocerussite,Carbonates,Other,cuzncl(oh)3,0,0,0,0
+R070317,Boracite,Oxides & Hydroxides,Silicates,heklaite,0,0,0,0
+R070534,Halite,Other,Silicates,howlite,0,0,0,0
+R090008,Fluorcalciomicrolite,Oxides & Hydroxides,Silicates,bertrandite,0,0,0,0
+R090057,Braunite,Silicates,Carbonates,gaudefroyite,0,0,0,0
+R070372,Cobaltite,Other,Silicates,wiluite,0,0,0,0
+R060487,Teallite,Other,Other,ferrokesterite,0,0,0,1
+R060435,Sodalite,Silicates,Silicates,sodalite,1,1,1,1
+R050421,Churchite-(Y),Phosphates,Oxides & Hydroxides,haynesite,0,0,0,0
+R050501,Wulfenite,Other,Silicates,donpeacorite,0,0,0,0
+R070097,Enstatite,Silicates,Silicates,melanotekite,0,0,0,1
+R061121,Axinite-(Mn),Silicates,Silicates,tinzenite,0,0,0,1
+R100215,Bobdownsite,Phosphates,Silicates,bertrandite,0,0,0,0
+R150107,Diamond,Native Elements,Silicates,marialite,0,0,0,0
+R070376,Tellurium,Native Elements,Silicates,enstatite,0,0,0,0
+R060449,Andradite,Silicates,Silicates,andradite,1,1,1,1
+R050066,Stibnite,Sulfides & Sulfosalts,Silicates,ilvaite,0,0,0,0
+R050174,Cerussite,Carbonates,Silicates,heulandite-ca,0,0,0,0
+R060335,Strashimirite,Oxides & Hydroxides,Sulfates,euchlorine,0,0,0,0
+R070586,Halite,Other,Silicates,clinoptilolite-ca,0,0,0,0
+R150083,Zircon,Silicates,Silicates,andradite,0,0,0,1
+R060620,Barylite,Silicates,Silicates,yoshimuraite,0,0,0,1
+R050554,Turquoise,Phosphates,Oxides & Hydroxides,cornwallite,0,0,0,0
+R130757,Chalcocite,Sulfides & Sulfosalts,Oxides & Hydroxides,ondrusite,0,0,0,0
+R090027,Argentopyrite,Sulfides & Sulfosalts,Oxides & Hydroxides,wilancookite,0,0,0,0
+R060293,Eosphorite,Phosphates,Silicates,enstatite,0,0,0,0
+R060526,Marialite,Silicates,Silicates,epidote,0,0,0,1
+R060399,Osarizawaite,Sulfates,Silicates,caryopilite,0,0,0,0
+R190015,Lazaraskeite,Oxides & Hydroxides,Oxides & Hydroxides,gillardite,0,0,0,1
+R141098,Magnesio-fluoro-hastingsite,Silicates,Silicates,nosean,0,0,0,1
+R070557,Hauyne,Silicates,Silicates,dioptase,0,0,0,1
+R061120,Muscovite,Silicates,Silicates,howlite,0,0,0,1
+R060472,Linarite,Sulfates,Silicates,scottyite,0,0,0,0
+R060297,Marialite,Silicates,Silicates,anorthite,0,0,0,1
+R050177,Olmiite,Silicates,Silicates,komarovite,0,0,1,1
+R070091,Ferrierite-Mg,Silicates,Silicates,tobermorite,0,0,0,1
+R090056,Coronadite,Oxides & Hydroxides,Oxides & Hydroxides,larderellite,0,1,1,1
+R150103,Kleinite,Sulfates,Carbonates,hydrotalcite,0,0,0,0
+R130671,Gordonite,Phosphates,Oxides & Hydroxides,behoite,0,0,0,0
+R070535,Stellerite,Silicates,Silicates,marialite,0,0,0,1
+R070132,Amesite,Silicates,Silicates,amesite,1,1,1,1
+R110015,Obradovicite-KCu,Oxides & Hydroxides,Oxides & Hydroxides,marthozite,0,0,0,1
+R120170,Jacobsite,Oxides & Hydroxides,Carbonates,gaudefroyite,0,0,0,0
+R120017,Conichalcite,Oxides & Hydroxides,Sulfates,kamchatkite,0,0,0,0
+R070692,Pyrite,Other,Other,calaverite,0,0,0,1
+R141039,Meta-autunite,Phosphates,Phosphates,metauranocircite,0,0,0,1
+R070580,Epididymite,Silicates,Silicates,eudidymite,0,0,0,1
+R130787,Ruizite,Silicates,Oxides & Hydroxides,symplesite,0,0,0,0
+R100038,Rhodonite,Silicates,Silicates,schizolite,0,0,0,1
+R060415,Tantalite-(Mn),Oxides & Hydroxides,Silicates,braunite,0,0,0,0
+R070448,Alunite,Sulfates,Oxides & Hydroxides,bariopharmacosiderite,0,0,0,0
+R110017,Lemmleinite-Ba,Silicates,Phosphates,ferrowyllieite,0,0,0,0
+R060026,Topaz,Silicates,Silicates,enstatite,0,0,0,1
+R060116,Orpiment,Sulfides & Sulfosalts,Silicates,enstatite,0,0,0,0
+R150127,Philipsbornite,Oxides & Hydroxides,Oxides & Hydroxides,romeite,0,0,0,1
+R130051,Lorenzenite,Silicates,Silicates,epididymite,0,0,0,1
+R070700,Plumbogummite,Phosphates,Oxides & Hydroxides,antipinite,0,0,0,0
+R180010,Wendwilsonite,Oxides & Hydroxides,Silicates,heulandite-na,0,0,0,0
+R070250,Hastingsite,Silicates,Oxides & Hydroxides,ilmenite,0,0,0,0
+R080007,Talmessite,Oxides & Hydroxides,Phosphates,goyazite,0,0,0,0
+R060421,Fluorapatite,Phosphates,Oxides & Hydroxides,behoite,0,0,0,0
+R070581,Botryogen,Sulfates,Carbonates,hydrotalcite,0,0,0,0
+R050372,Diaboleite,Oxides & Hydroxides,Silicates,litidionite,0,1,1,0
+R060551,Forsterite,Silicates,Silicates,topaz,0,0,0,1
+R110064,Tinzenite,Silicates,Silicates,ferrierite-mg,0,1,1,1
+R090038,Dundasite,Carbonates,Oxides & Hydroxides,diaboleite,0,0,0,0
+R070283,Gmelinite-Ca,Silicates,Silicates,afwillite,0,0,0,1
+R060271,Chalcophanite,Oxides & Hydroxides,Other,westerveldite,0,0,0,0
+R100222,Variscite,Phosphates,Oxides & Hydroxides,annabergite,0,0,0,0
+R140872,Metatorbernite,Phosphates,Sulfides & Sulfosalts,bobmeyerite,0,0,0,0
+R070653,Bobdownsite,Phosphates,Silicates,gerstmannite,0,0,0,0
+R070158,Tellurobismuthite,Other,Native Elements,antimony,0,0,0,0
+R060264,Tyrolite,Carbonates,Oxides & Hydroxides,cornwallite,0,0,0,0
+R180001,Murdochite,Oxides & Hydroxides,Silicates,aminoffite,0,0,0,0
+R060651,Opal,Silicates,Silicates,potassic-fluoro-richterite,0,0,0,1
+R180012,Wendwilsonite,Oxides & Hydroxides,Silicates,heulandite-na,0,0,0,0
+R050561,Andalusite,Silicates,Silicates,akatoreite,0,0,0,1
+R150064,Wakabayashilite,Sulfides & Sulfosalts,Sulfides & Sulfosalts,uzonite,0,0,0,1
+R060566,Elbaite,Silicates,Silicates,litidionite,0,0,0,1
+R060133,Brochantite,Sulfates,Oxides & Hydroxides,gillardite,0,0,0,0
+R060652,Opal,Silicates,Silicates,levyne-na,0,0,0,1
+R180011,Wendwilsonite,Oxides & Hydroxides,Silicates,heulandite-na,0,0,0,0
+R130225,Brookite,Other,Oxides & Hydroxides,wilancookite,0,0,0,0
+R070451,Hydroxylherderite,Phosphates,Silicates,enstatite,0,0,0,0
+R050559,Chalcopyrite,Other,Silicates,wiluite,0,0,0,0
+R050064,Epidote,Silicates,Silicates,clinoptilolite-ca,0,0,0,1
+R080012,Botallackite,Oxides & Hydroxides,Oxides & Hydroxides,marthozite,0,0,0,1
+R130053,Steacyite,Silicates,Silicates,ferrisurite,0,0,0,1
+R070559,Wagnerite,Phosphates,Silicates,donpeacorite,0,0,0,0
+R060427,Calderonite,Oxides & Hydroxides,Silicates,kuzmenkoite-mn,0,0,0,0
+R060339,Chalcosiderite,Phosphates,Oxides & Hydroxides,lavendulan,0,0,0,0
+R070018,Sampleite,Phosphates,Oxides & Hydroxides,diaboleite,0,0,0,0
+R050369,Fluorapatite,Phosphates,Sulfates,gordaite,0,0,0,0
+R070641,Enstatite,Silicates,Silicates,fluor-elbaite,0,0,0,1
+R060942,Beryl,Silicates,Sulfates,tlapallite,0,0,0,0
+R100200,Geminite,Oxides & Hydroxides,Other,dugganite,0,0,0,0
+R130054,Roscherite,Phosphates,Oxides & Hydroxides,behoite,0,0,0,0
+R060902,Vesuvianite,Silicates,Silicates,sodalite,0,0,0,1
+R050676,Magnesite,Carbonates,Silicates,staurolite,0,0,0,0
+R070086,Dypingite,Carbonates,Silicates,manandonite,0,0,0,0
+R130277,Elyite,Sulfates,Oxides & Hydroxides,symplesite,0,0,0,0
+R050411,Spinel,Oxides & Hydroxides,Oxides & Hydroxides,magnesiotaaffeite-2n2s,0,0,0,1
+R070636,Bornite,Other,Silicates,wiluite,0,0,0,0
+R110135,Meurigite-K,Phosphates,Silicates,caryopilite,0,0,0,0
+R160016,Crocoite,Other,Oxides & Hydroxides,bobkingite,0,0,0,0
+R060799,Spinel,Oxides & Hydroxides,Silicates,quartz,0,0,0,0
+R070092,Clinoclase,Oxides & Hydroxides,Other,crednerite,0,0,0,0
+R060441,Pyrope,Silicates,Silicates,pyrope,1,1,1,1
+R110004,Gustavite,Sulfides & Sulfosalts,Other,ferrokesterite,0,0,0,0
+R080083,Zirkelite,Oxides & Hydroxides,Silicates,fluor-buergerite,0,0,0,0
+R060696,Beraunite,Phosphates,Other,bornite,0,0,0,0
+R061098,Clinoptilolite-Ca,Silicates,Silicates,gerstmannite,0,0,0,1
+R070686,Metatorbernite,Phosphates,Phosphates,metatorbernite,1,1,1,1
+R060131,Melanovanadite,Oxides & Hydroxides,Native Elements,antimony,0,0,0,0
+R070017,Greenockite,Other,Phosphates,atencioite,0,0,0,0
+R080010,Tourmaline,Other,Oxides & Hydroxides,cornwallite,0,0,0,0
+R060087,Wickenburgite,Silicates,Silicates,aminoffite,0,0,0,1
+R060469,Marialite,Silicates,Silicates,topaz,0,0,0,1
+R141115,Lavinskyite,Silicates,Silicates,scottyite,0,1,1,1
+R130046,Prehnite,Silicates,Silicates,clinoptilolite-ca,0,0,0,1
+R110132,Tourmaline,Other,Silicates,ferrisurite,0,0,0,0
+R090042,Tridymite,Silicates,Silicates,kentrolite,0,0,0,1
+R120076,Tenorite,Other,Oxides & Hydroxides,pseudobrookite,0,0,0,0
+R060143,Covellite,Other,Other,tyrrellite,0,0,0,1
+R061012,Heulandite-Ca,Silicates,Silicates,margarite,0,1,1,1
+R120113,Chalcocite,Sulfides & Sulfosalts,Silicates,kentrolite,0,0,0,0
+R070627,Opal,Silicates,Oxides & Hydroxides,magnesiotaaffeite-2n2s,0,0,0,0
+R100221,Greifensteinite,Phosphates,Oxides & Hydroxides,tetrawickmanite,0,0,0,0
+R070585,Arsenopyrite,Other,Other,ferrokesterite,0,0,0,1
+R120167,Aegirine,Silicates,Other,pirquitasite,0,0,0,0
+R090046,Diopside,Silicates,Silicates,braunite,0,0,0,1
+R100043,Scotlandite,Sulfides & Sulfosalts,Silicates,aminoffite,0,0,0,0
+R070252,Siegenite,Other,Silicates,braunite,0,0,0,0
+R150108,Diamond,Native Elements,Silicates,wiluite,0,0,0,0
+R141103,Mullite,Silicates,Silicates,berthierine,0,0,0,1
+R110139,Variscite,Phosphates,Silicates,hodgkinsonite,0,0,0,0
+R150123,Pararealgar,Other,Oxides & Hydroxides,karibibite,0,0,0,0
+R100139,Kyanite,Silicates,Silicates,enstatite,0,0,0,1
+R060465,Heulandite-Ca,Silicates,Silicates,heulandite-na,0,0,0,1
+R050562,Tugtupite,Silicates,Silicates,donpeacorite,0,0,0,1
+R120163,Fluorcalciomicrolite,Oxides & Hydroxides,Silicates,donpeacorite,0,0,0,0
+R060502,Siegenite,Other,Native Elements,antimony,0,0,0,0
+R141097,Afwillite,Silicates,Silicates,epididymite,0,0,0,1
+R120011,Pyroaurite,Carbonates,Sulfides & Sulfosalts,uzonite,0,0,0,0
+R060689,Pearceite,Sulfides & Sulfosalts,Silicates,fluor-uvite,0,0,0,0
+R050435,Enargite,Other,Other,alabandite,0,0,0,1
+R150074,Quartz,Silicates,Silicates,clinoptilolite-ca,0,0,0,1
+R070100,Fluorcalciomicrolite,Oxides & Hydroxides,Oxides & Hydroxides,wilancookite,0,0,0,1
+R050545,Trolleite,Phosphates,Oxides & Hydroxides,ondrusite,0,0,0,0
+R060423,Andradite,Silicates,Silicates,fluor-uvite,0,1,1,1
+R060636,Sphalerite,Other,Silicates,afwillite,0,0,0,0
+R061022,Salammoniac,Halides,Silicates,bertrandite,0,0,0,0
+R150094,Tremolite,Silicates,Silicates,quartz,0,0,0,1
+R110011,Gustavite,Sulfides & Sulfosalts,Other,ferrokesterite,0,0,0,0
+R110154,Rutherfordine,Carbonates,Oxides & Hydroxides,schoepite,0,0,0,0
+R070275,Marokite,Oxides & Hydroxides,Silicates,kentrolite,0,0,0,0
+R070197,Clintonite,Silicates,Silicates,clinoptilolite-ca,0,0,0,1
+R100087,Brackebuschite,Oxides & Hydroxides,Silicates,kuzmenkoite-mn,0,0,0,0
+R060631,Elbaite,Silicates,Silicates,tinaksite,0,0,0,1
+R110041,Arsentsumebite,Sulfates,Other,bunsenite,0,0,0,0
+R150106,Diamond,Native Elements,Silicates,heklaite,0,0,0,0
+R170043,Olshanskyite,Oxides & Hydroxides,Silicates,sillimanite,0,0,0,0
+R060499,Grossular,Silicates,Silicates,anorthite,0,0,0,1
+R070253,Aegirine,Silicates,Carbonates,gaudefroyite,0,0,0,0
+R061055,Eosphorite,Phosphates,Silicates,enstatite,0,0,0,0
+R150013,Johannsenite,Silicates,Silicates,itsiite,0,0,0,1
+R060093,Babingtonite,Silicates,Other,luzonite,0,0,0,0
+R080088,Osmium,Native Elements,Other,chalcopyrite,0,0,0,0
+R080058,Pyrochlore,Oxides & Hydroxides,Silicates,staurolite,0,0,0,0
+R090073,Paakkonenite,Other,Other,ferrokesterite,0,0,0,1
+R120169,Pyrolusite,Other,Native Elements,antimony,0,0,0,0
+R060109,Getchellite,Other,Silicates,ferrisurite,0,0,0,0
+R090018,Rutherfordine,Carbonates,Oxides & Hydroxides,bariopharmacosiderite,0,0,0,0
+R090016,Claringbullite,Oxides & Hydroxides,Oxides & Hydroxides,antipinite,0,0,0,1
+R070524,Mordenite,Silicates,Silicates,nekoite,0,0,0,1
+R060534,Dravite,Silicates,Silicates,fluor-uvite,0,0,1,1
+R160003,Veszelyite,Phosphates,Oxides & Hydroxides,lavendulan,0,0,0,0
+R061041,Uvarovite,Silicates,Oxides & Hydroxides,cornwallite,0,0,0,0
+R070427,Hilgardite,Oxides & Hydroxides,Silicates,afwillite,0,0,0,0
+R100135,Sapphirine,Silicates,Silicates,fluor-uvite,0,0,0,1
+R070508,Minium,Oxides & Hydroxides,Oxides & Hydroxides,karibibite,0,0,0,1
+R060790,Bavenite,Silicates,Silicates,heulandite-ca,0,0,0,1
+R080142,Aragonite,Carbonates,Silicates,maricopaite,0,0,0,0
+R090045,Greenockite,Other,Silicates,topaz,0,0,0,0
+R050199,Topaz,Silicates,Silicates,sodalite,0,0,0,1
+R140338,Spherocobaltite,Carbonates,Silicates,aminoffite,0,0,0,0
+R110127,Epidote,Silicates,Phosphates,dickinsonite-(kmnna),0,0,0,0
+R150084,Zircon,Silicates,Native Elements,diamond,0,0,0,0
+R050390,Braunite,Silicates,Native Elements,antimony,0,0,0,0
+R050506,Conichalcite,Oxides & Hydroxides,Sulfates,piypite,0,0,0,0
+R150085,Zircon,Silicates,Silicates,sodalite,0,0,0,1
+R140025,Laurionite,Oxides & Hydroxides,Silicates,aminoffite,0,0,0,0
+R070205,Epidote,Silicates,Silicates,manganvesuvianite,0,0,0,1
+R070594,Rockbridgeite,Phosphates,Other,luzonite,0,0,0,0
+R180014,Wendwilsonite,Oxides & Hydroxides,Silicates,bertrandite,0,0,0,0
+R050570,Eosphorite,Phosphates,Phosphates,hazenite,0,0,0,1
+R060202,Astrophyllite,Silicates,Oxides & Hydroxides,melanovanadite,0,0,0,0
+R060653,Opal,Silicates,Silicates,dioptase,0,0,0,1
+R060969,Fluor-liddicoatite,Silicates,Silicates,asisite,0,0,0,1
+R050617,Fluorapatite,Phosphates,Silicates,anorthite,0,0,0,0
+R060098,Argentojarosite,Sulfates,Sulfates,szomolnokite,0,0,0,1
+R110063,Augite,Silicates,Silicates,wiluite,0,0,0,1
+R060476,Meta-autunite,Phosphates,Silicates,enstatite,0,0,0,0
+R070378,Alleghanyite,Silicates,Silicates,jerrygibbsite,0,0,1,1
+R100049,Andradite,Silicates,Silicates,clinoptilolite-ca,0,0,0,1
+R180008,Wendwilsonite,Oxides & Hydroxides,Silicates,heulandite-na,0,0,0,0
+R060170,Vesuvianite,Silicates,Silicates,diopside,0,0,0,1
+R070002,Magnesio-riebeckite,Silicates,Silicates,tobermorite,0,1,1,1
+R080053,Spessartine,Silicates,Silicates,ferrierite-mg,0,0,0,1
+R060549,Rhodonite,Silicates,Silicates,rhodonite,1,1,1,1
+R110199,Burbankite,Carbonates,Silicates,wickenburgite,0,0,0,0
+R050596,Vivianite,Phosphates,Other,luzonite,0,0,0,0
+R060737,Bastnasite-(Ce),Carbonates,Silicates,fluor-buergerite,0,0,0,0
+R050222,Chalcopyrite,Other,Silicates,nosean,0,0,0,0
+R070629,Arsentsumebite,Sulfates,Oxides & Hydroxides,bayldonite,0,0,0,0
+R070719,Jacobsite,Oxides & Hydroxides,Oxides & Hydroxides,mackayite,0,0,0,1
+R120007,Rosasite,Carbonates,Oxides & Hydroxides,bayldonite,0,0,0,0
+R130477,Ericaite,Oxides & Hydroxides,Silicates,babingtonite,0,0,1,0
+R110068,Gillardite,Oxides & Hydroxides,Oxides & Hydroxides,gillardite,1,1,1,1
+R150087,Diamond,Native Elements,Other,thorianite,0,0,0,0
+R050626,Andalusite,Silicates,Silicates,wiluite,0,0,0,1
+R070269,Manganite,Oxides & Hydroxides,Silicates,clinoptilolite-ca,0,0,0,0
+R060197,Andalusite,Silicates,Silicates,andradite,0,0,0,1
+R100075,Vladimirite,Oxides & Hydroxides,Silicates,epididymite,0,0,0,0
+R060373,Tsaregorodtsevite,Silicates,Silicates,clinoptilolite-ca,0,0,0,1
+R140557,Creaseyite,Silicates,Oxides & Hydroxides,symplesite,0,0,0,0
+R060070,Fluorapatite,Phosphates,Silicates,wiluite,0,0,0,0
+R170046,Tetrawickmanite,Oxides & Hydroxides,Oxides & Hydroxides,georgerobinsonite,0,1,1,1
+R100077,Rosasite,Carbonates,Oxides & Hydroxides,cornwallite,0,0,0,0
+R060102,Chalcanthite,Sulfates,Silicates,litidionite,0,0,0,0
+R180013,Wendwilsonite,Oxides & Hydroxides,Silicates,litidionite,0,0,0,0
+R120144,Aegirine,Silicates,Silicates,fluor-buergerite,0,0,0,1
+R060988,Cosalite,Sulfides & Sulfosalts,Other,westerveldite,0,0,0,0
+R050529,Fluorapatite,Phosphates,Silicates,caryopilite,0,0,0,0
+R100150,Cordierite,Silicates,Oxides & Hydroxides,magnesiotaaffeite-2n2s,0,0,0,0
+R070558,Afghanite,Silicates,Silicates,afghanite,1,1,1,1
+R120155,Ammineite,Other,Oxides & Hydroxides,ondrusite,0,0,0,0
+R100148,Epidote,Silicates,Silicates,fluor-buergerite,0,0,0,1
+R120126,Emmonsite,Oxides & Hydroxides,Sulfates,piypite,0,0,0,0
+R170037,Gahnite,Oxides & Hydroxides,Other,bornite,0,0,0,0
+R070517,Pharmacolite,Oxides & Hydroxides,Phosphates,wavellite,0,0,0,0
+R060165,Pyrochlore,Oxides & Hydroxides,Silicates,wiluite,0,0,0,0
+R060382,Grossular,Silicates,Silicates,clinoptilolite-ca,0,0,0,1
+R060545,Wolfeite,Phosphates,Silicates,hastingsite,0,0,0,0
+R100138,Andradite,Silicates,Oxides & Hydroxides,magnesiotaaffeite-2n2s,0,1,1,0
+R060234,Artinite,Carbonates,Silicates,scawtite,0,0,0,0
+R070318,Antimony,Native Elements,Other,westerveldite,0,0,1,0
+R070587,Pharmacosiderite,Oxides & Hydroxides,Silicates,kentrolite,0,0,0,0
+R070551,Grossular,Silicates,Silicates,ferrisurite,0,0,0,1
+R060451,Spessartine,Silicates,Silicates,yoshimuraite,0,0,0,1
+R130755,Molybdofornacite,Oxides & Hydroxides,Oxides & Hydroxides,humboldtine,0,1,1,1
+R070491,Corkite,Phosphates,Oxides & Hydroxides,bariopharmacosiderite,0,0,0,0
+R070189,Beudantite,Sulfates,Other,tsumoite,0,0,0,0
+R060625,Cosalite,Sulfides & Sulfosalts,Silicates,clinoptilolite-ca,0,0,0,0
+R100199,Brochantite,Sulfates,Sulfates,wupatkiite,0,0,0,1
+R060222,Magnetite,Oxides & Hydroxides,Oxides & Hydroxides,senaite,0,0,0,1
+R060448,Pyrope,Silicates,Silicates,yoshimuraite,0,0,0,1
+R160006,Scottyite,Silicates,Silicates,aminoffite,0,0,0,1
+R220007,Hydromagnesite,Carbonates,Oxides & Hydroxides,priceite,0,0,0,0
+R070313,Pyrosmalite-(Fe),Silicates,Silicates,aenigmatite,0,0,0,1
+R120005,Microcline,Silicates,Silicates,enstatite,0,0,0,1
+R100127,Sillimanite,Silicates,Silicates,wiluite,0,0,0,1
+R050097,Heulandite-Ca,Silicates,Silicates,stellerite,0,0,0,1
+R090041,Pearceite,Sulfides & Sulfosalts,Other,calaverite,0,0,0,0
+R080137,Pucherite,Other,Silicates,melanotekite,0,0,0,0
+R150086,Diamond,Native Elements,Oxides & Hydroxides,magnesiotaaffeite-2n2s,0,1,1,0
+R130536,Pyroxmangite,Silicates,Silicates,hodgkinsonite,0,0,0,1
+R100065,Metarossite,Oxides & Hydroxides,Oxides & Hydroxides,behoite,0,0,0,1
+R060463,Tiemannite,Other,Other,westerveldite,0,0,0,1
+R070065,Philipsbornite,Oxides & Hydroxides,Oxides & Hydroxides,koenenite,0,0,1,1
+R070510,Anorthite,Silicates,Silicates,afwillite,0,0,0,1
+R100175,Wendwilsonite,Oxides & Hydroxides,Oxides & Hydroxides,carminite,0,0,1,1
+R060434,Meta-autunite,Phosphates,Silicates,nosean,0,0,0,0
+R060453,Grossular,Silicates,Oxides & Hydroxides,cornwallite,0,0,0,0
+R141155,Sincosite,Phosphates,Phosphates,saleeite,0,0,0,1
+R150111,Scottyite,Silicates,Sulfates,orthoserpierite,0,0,0,0
+R110146,Cornwallite,Oxides & Hydroxides,Oxides & Hydroxides,lavendulan,0,0,0,1
+R060280,Dravite,Silicates,Silicates,enstatite,0,0,0,1
+R060471,Richterite,Silicates,Carbonates,gaudefroyite,0,0,0,0
+R050467,Variscite,Phosphates,Oxides & Hydroxides,kapellasite,0,0,0,0
+R150066,Roselite,Oxides & Hydroxides,Phosphates,goyazite,0,0,0,0
+R070365,Fluorcalciomicrolite,Oxides & Hydroxides,Oxides & Hydroxides,ilmenite,0,0,0,1
+R070730,Chalcocite,Sulfides & Sulfosalts,Other,ferrokesterite,0,0,0,0
+R100018,Rutherfordine,Carbonates,Silicates,wickenburgite,0,0,0,0
+R140626,Collinsite,Phosphates,Silicates,levyne-na,0,0,0,0
+R050028,Conichalcite,Oxides & Hydroxides,Oxides & Hydroxides,bariopharmacosiderite,0,0,0,1
+R060018,Chalcanthite,Sulfates,Silicates,litidionite,0,0,0,0
+R061064,Cristobalite,Silicates,Silicates,nosean,0,0,0,1
+R140664,Montgomeryite,Phosphates,Silicates,maricopaite,0,0,0,0
+R130002,Cuspidine,Silicates,Silicates,natrolite,0,0,0,1
+R060236,Jarosite,Sulfates,Oxides & Hydroxides,tetrawickmanite,0,0,0,0
